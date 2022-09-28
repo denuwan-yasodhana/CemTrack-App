@@ -1,0 +1,3 @@
+      C001               KAMAL                          RING                            10                          1500                         15000
+      C002               RUWAN                          POLE                            10                          4500                         45000
+      C003               NUWAN                           LID                            10                           700                          7000
