@@ -1,4 +1,4 @@
-# workstation-management-system
+# CemTrack App
 
 ## Introduction
 
